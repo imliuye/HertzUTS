@@ -1,0 +1,33 @@
+
+.carHolder {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.item-quantity-input {
+    background: #f6f6f6;
+    width: 60px;
+    position: relative;
+    height: 34px;
+    padding: 4px 10px;
+    font-size: 14px;
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    box-sizing: border-box;
+    outline: none;
+
+}
+
+.item-quantity-input:focus {
+    background: #fff;
+}
+
+.spin0{-moz-appearance:textfield;}.spin0::-webkit-outer-spin-button,.spin0::-webkit-inner-spin-button{-webkit-appearance:none}
+
+.white-word {
+    color: white;
+}
+
+.red-word {
+    color: red;
+}

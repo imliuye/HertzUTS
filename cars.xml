@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car id="Camry">
+        <category>Sedan</category>
+        <availability>False</availability>
+        <brand>Toyota</brand>
+        <model>Camry</model>
+        <model_year>2013</model_year>
+        <mileage>85364</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>120</price_per_day>
+        <description>The Toyota Camry is an automobile sold internationally by the Japanese manufacturer Toyota since 1982, spanning multiple generations.</description>
+    </car>
+    <car id="X-trail">
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Nissan</brand>
+        <model>X-trail</model>
+        <model_year>2017</model_year>
+        <mileage>36782</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>7</seats>
+        <price_per_day>360</price_per_day>
+        <description>The Nissan X-Trail is a compact crossover SUV produced by the Japanese automaker Nissan since 2000. In third generation, it is a 3-row (which means 7-seater) SUV. </description>
+    </car>
+
+    <car id="Golf">
+        <category>Wagon</category>
+        <availability>True</availability>
+        <brand>Volkswagen</brand>
+        <model>Golf</model>
+        <model_year>2017</model_year>
+        <mileage>13576</mileage>
+        <fuel_type>CNG</fuel_type>
+        <seats>5</seats>
+        <price_per_day>180</price_per_day>
+        <description>The Volkswagen Golf Mk6 is a compact car, the sixth generation of the Volkswagen Golf and the successor to the Volkswagen Golf Mk5.</description>
+    </car>
+    <car id="Civic">
+        <category>Sedan</category>
+        <availability>True</availability>
+        <brand>Honda</brand>
+        <model>Civic</model>
+        <model_year>2018</model_year>
+        <mileage>9586</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>220</price_per_day>
+        <description>The Honda Civic is technically a small-end mid-size car, although it still competes in the compact class.</description>
+    </car>
+    <car id="Captiva">
+        <category>SUV</category>
+        <availability>False</availability>
+        <brand>Holden</brand>
+        <model>Captiva</model>
+        <model_year>2014</model_year>
+        <mileage>11135</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>7</seats>
+        <price_per_day>260</price_per_day>
+        <description>The Holden Captiva is a crossover SUV produced from 2006 to 2018 by GM Korea, previously known as Daewoo.</description>
+    </car>
+    <car id="Jimny">
+        <category>Wagon</category>
+        <availability>True</availability>
+        <brand>Suzuki</brand>
+        <model>Jimny</model>
+        <model_year>2011</model_year>
+        <mileage>26496</mileage>
+        <fuel_type>Diesel</fuel_type>
+        <seats>5</seats>
+        <price_per_day>310</price_per_day>
+        <description>It is the original, rugged 4x4. Beginning with the LJ10A in 1970, The Jimny has forged a legendary reputation for being tougher than the terrain it travels. Lightweight but seriously capable, the all-new Jimny is the next level in taking you places others can’t.</description>
+    </car>
+    <car id="320i">
+        <category>Wagon</category>
+        <availability>True</availability>
+        <brand>BMW</brand>
+        <model>320i</model>
+        <model_year>2019</model_year>
+        <mileage>3285</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>380</price_per_day>
+        <description>The BMW 3 Series Compact is a 3-door hatchback version of the BMW 3 Series, which was produced from 1993 through 2004. Initially based on the E36 platform, it switched to the E46 platform in 2001.</description>
+    </car>
+
+
+    <car id="Benz-GLC">
+        <category>SUV</category>
+        <availability>False</availability>
+        <brand>Mercedes</brand>
+        <model>Benz-GLC</model>
+        <model_year>2016</model_year>
+        <mileage>45628</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>410</price_per_day>
+        <description>The Mercedes-Benz GLC-Class (X253/C253) is a compact luxury SUV introduced in 2015 for the 2016 model year that replaces the former Mercedes-Benz GLK-Class.</description>
+    </car>
+
+    <car id="Sonata">
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Hyundai</brand>
+        <model>Sonata</model>
+        <model_year>2013</model_year>
+        <mileage>689789</mileage>
+        <fuel_type>Petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>315</price_per_day>
+        <description>The Hyundai Sonata is a mid-size car produced by the South Korean manufacturer Hyundai since 1985.</description>
+    </car>
+    <car id="Cherokee">
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Jeep</brand>
+        <model>Cherokee</model>
+        <model_year>2013</model_year>
+        <mileage>75682</mileage>
+        <fuel_type>diesel</fuel_type>
+        <seats>5</seats>
+        <price_per_day>150</price_per_day>
+        <description>The 2013 Grand Cherokee only seats five, whereas many midsize SUVs seat up to seven or eight.</description>
+    </car>
+    <car id="DBS-Superleggera">
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Aston Martin</brand>
+        <model>DBS-Superleggera</model>
+        <model_year>2019</model_year>
+        <mileage>75682</mileage>
+        <fuel_type>diesel</fuel_type>
+        <seats>5</seats>
+        <price_per_day>1009</price_per_day>
+        <description>The DBS Superleggera combines the best of the modern Aston Martins with a historic name presented in a stunning package.</description>
+    </car>
+    <car id="Aventador-S">
+        <category>SUV</category>
+        <availability>True</availability>
+        <brand>Lamborghini</brand>
+        <model>Aventador-S</model>
+        <model_year>2019</model_year>
+        <mileage>756832</mileage>
+        <fuel_type>petrol</fuel_type>
+        <seats>5</seats>
+        <price_per_day>1909</price_per_day>
+        <description> The Lamborghini Aventador S is a hugely unnecessary car that probably would not exist at all in any sane universe. Fortunately it is from Italy instead.</description>
+    </car>
+</cars>
